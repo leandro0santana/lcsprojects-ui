@@ -1,0 +1,4 @@
+{
+  "extends": "@lcsprojects-ui/ts-config/base.json",
+  "include": ["src"]
+}
