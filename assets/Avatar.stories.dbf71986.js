@@ -1,0 +1,2 @@
+import{A as t}from"./index.14decdd6.js";import"./index.ccecceeb.js";import"./iframe.e42f4eac.js";import"./index.d6b63f73.js";import"./jsx-runtime.5171a12b.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/leandro0santana.png",alt:"Leandro C Santana"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.dbf71986.js.map
